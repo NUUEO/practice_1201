@@ -27,4 +27,4 @@ level = pd.Series(level,index=cpk.index)
 data = pd.concat([ck,cp,cpk,level],axis=1) #合併表格
 data.columns = ['ck','cp','cpk','Level']
 print(data)
-data.to_csv('data.csv',encoding='utf-8')
+data.to_csv('data.csv')
