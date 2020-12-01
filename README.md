@@ -7,7 +7,7 @@
 - 學習如何安裝套件
 - 學習如何使用conda
 
-## git 之相關學習
+## [git](git.md) 之相關學習
 - 學習git的用法
 - 了解 `clone`、`push`與`pull`等
 - 熟悉使用 `add` `commit` 等指令
